@@ -15,7 +15,6 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
 **FINCHE'** Film < 3 voti VAI AL PROSSIMO
 DEFINISCI Lista_Film_Consigliati(*Film_Piu_Votato*)
 
-
 ### GUARDA NETFLIX
 
 - Prendere il telecomando
